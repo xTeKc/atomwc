@@ -1,2 +1,2 @@
 # atomwc
-Cosmos Wallet Connect smart contract.
+Cosmos Wallet Connect.
